@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/day68_combine-reducers-in-redux-in-react/',
+  base: '/basic-transaction-display-using-redux/',
   plugins: [react()],
 })
